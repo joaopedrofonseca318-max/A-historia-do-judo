@@ -31,7 +31,7 @@ Fontes abertas (texto/PDF) selecionadas e carregadas no NotebookLM:
 | 4 | TUDO SOBRE JUDO  - TIME BRASIL TV     | VIDEO |https://www.youtube.com/watch?v=6LWfTDfOm7I |
 | 5 | KYUSO MIFUNE E O LEGADO DO JUDO       | VIDEO |https://www.youtube.com/watch?v=k4qNSchw_4U |
 
-***ESSAS SÃO SÓ ALGUMAS DAS 28 FOTES SELECIONADAS PARA FAZER PARTE DO NOTEBOOKLM***
+***ESSAS SÃO SÓ ALGUMAS DAS 28 FONTES SELECIONADAS PARA FAZER PARTE DO NOTEBOOKLM***
 
 **Critérios de seleção:** Forão selecionadas essas fontes com base nos meus conhecimentos de judo e de todas as coisas que aprendi durante minha carreira.
 ---
