@@ -33,7 +33,7 @@ Fontes abertas (texto/PDF) selecionadas e carregadas no NotebookLM:
 
 ***ESSAS SÃO SÓ ALGUMAS DAS 28 FONTES SELECIONADAS PARA FAZER PARTE DO NOTEBOOKLM***
 
-**Critérios de seleção:** Forão selecionadas essas fontes com base nos meus conhecimentos de judo e de todas as coisas que aprendi durante minha carreira.
+**Critérios de seleção:** Foram selecionadas essas fontes com base nos meus conhecimentos de judo e de todas as coisas que aprendi durante minha carreira.
 ---
 
 ## 🧠 Engenharia de Prompts e "Cicatrizes"
