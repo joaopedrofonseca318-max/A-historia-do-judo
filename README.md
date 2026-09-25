@@ -140,14 +140,30 @@ A RESPOSTA SAIU MAIS COMPLETA E SEM SER APAGADA POR INFORMAÇÕES DESNECESSÁRIA
 
 ### 1. Resumos Estruturados
 
-#### Conceito/Tópico 1
-_[resumo estruturado, gerado com apoio do NotebookLM e revisado por você]_
+#### HISTÓRIA DO JUDO 
+**Origem e Transição do Jujutsu ao Judô:** O judô (*"Caminho Suave"*) foi criado em 1882 por **Jigoro Kano** no Templo Eishoji, em Tóquio, a partir da reformulação de técnicas do *jujutsu* clássico[1]. Kano eliminou os golpes fatais e aplicou princípios científicos para transformar um método de combate em um sistema de educação física, mental e moral[2]. A substituição do sufixo *jutsu* (arte/técnica) por *do* (caminho) marcou a transição de uma arte de combate para uma filosofia de vida voltada ao aperfeiçoamento pessoal e social[4].
 
-#### Conceito/Tópico 2
-_[resumo estruturado]_
 
-#### Conceito/Tópico 3
-_[resumo estruturado]_
+#### TECNIOCAS E VARIAÇOES 
+O acervo oficial do Judô Kodokan é composto por **118 técnicas** divididas em três categorias principais:
+
+1. **Nage-waza (67 Projeções):** Arremessos realizados em pé (*Tachi-waza*: braços, quadril e pernas) ou por sacrifício (*Sutemi-waza*: caindo de costas ou de lado).
+2. **Katame-waza (29 Técnicas de Solo):** Controles no chão divididos em imobilizações (*Osaekomi-waza*), estrangulamentos (*Shime-waza*) e chaves articulares de cotovelo (*Kansetsu-waza*).
+3. **Atemi-waza (22 Golpes Traumáticos):** Ataques diretos a pontos vitais com mãos, pés e cotovelos, restritos aos *Katas* formais e à autodefesa.
+
+**Didática e Aplicação:**
+* **Gokyo no Waza:** O currículo pedagógico básico com **40 projeções** divididas em 5 grupos progressivos.
+* **Três Fases do Golpe:** Toda projeção exige *Kuzushi* (desequilíbrio), *Tsukuri* (preparação/entrada) e *Kake* (execução).
+
+
+
+#### JIGORO KANO
+**Jigoro Kano (1860–1938)** foi o criador do judô e o pioneiro da educação física moderna no Japão:
+
+* **Criação do Judô (1882):** Fundou o Instituto **Kodokan** aos 22 anos, transformando o antigo *jujutsu* em um sistema científico e seguro voltado à educação e ao aperfeiçoamento pessoal.
+* **Filosofia:** Baseou a arte em dois pilares — *Seiryoku-Zenyo* (mínimo esforço, máxima eficiência) e *Jita-Kyoei* (prosperidade e benefício mútuos).
+* **Inovações:** Criou o sistema de graduação por faixas coloridas/graus (*Dan*) e a organização didática das técnicas (*Gokyo no Waza*).
+* **Projeção Global:** Tornou-se o primeiro membro asiático do Comitê Olímpico Internacional (COI) em 1909, impulsionando a expansão mundial do esporte.
 
 ---
 
